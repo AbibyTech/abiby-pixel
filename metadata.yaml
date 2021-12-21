@@ -1,0 +1,5 @@
+homepage: "https://abiby.it"
+documentation: "https://abiby.it"
+versions:
+  - sha: e7bbb0407fed53b9b1dc01f3d64917f84de86f4a
+    changeNotes: Initial release.
